@@ -24,7 +24,7 @@ textarea {
 }
 
 #output-container {
-  border: 3px outset black;  
+  border: 3px outset #2d244f;  
   max-height: 266.5px;
   max-width: 500px;
   color: #24492f
